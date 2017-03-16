@@ -1,0 +1,9 @@
+﻿Tema: Gerenciamento de Notas
+
+Funções do Sistema:
+- Armazenamento de notas em banco de dados
+- Categorização e formatação de notas
+- Acesso restrito com autenticação por e-mail e senha
+- Website responsivo
+
+Quantidade estimada de telas: 6 páginas
