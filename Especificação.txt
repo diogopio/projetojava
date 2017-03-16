@@ -7,3 +7,4 @@ Funções do Sistema:
 - Website responsivo
 
 Quantidade estimada de telas: 6 páginas
+---------------------------------------
