@@ -82,7 +82,7 @@
 <body bgcolor="#00abec" >
     <div id="feature">
         <div id="content">
-            <h2>This Java based web application has been successfully created</h2>
+            <h2>This Java based web application has been successfully created!!</h2>
             <p>
                 There's nothing here yet, but Microsoft Azure makes it simple to publish content with
                 <a href="http://www.windowsazure.com/en-us/documentation/articles/web-sites-deploy/#git" alt="GIT">GIT</a> and
