@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Microsoft Azure Web Site - Welcome</title>
+    <meta charset="utf-8">
     <style type="text/css">
         html {
             height: 100%;
